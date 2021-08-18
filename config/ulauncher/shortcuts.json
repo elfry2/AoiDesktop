@@ -1,0 +1,32 @@
+{
+    "ea6b188f-3619-4f68-9bcc-bac01bb2f0f0": {
+        "id": "ea6b188f-3619-4f68-9bcc-bac01bb2f0f0",
+        "name": "Stack Overflow",
+        "keyword": "so",
+        "cmd": "http://stackoverflow.com/search?q=%s",
+        "icon": "/usr/share/ulauncher/media/stackoverflow-icon.svg",
+        "is_default_search": false,
+        "run_without_argument": false,
+        "added": 1627803708.4373386
+    },
+    "8a578f7e-054d-4718-a443-4b4eb5e8a5c9": {
+        "id": "8a578f7e-054d-4718-a443-4b4eb5e8a5c9",
+        "name": "Wikipedia",
+        "keyword": "wiki",
+        "cmd": "https://en.wikipedia.org/wiki/%s",
+        "icon": "/usr/share/ulauncher/media/wikipedia-icon.png",
+        "is_default_search": false,
+        "run_without_argument": false,
+        "added": 1627803708.4374223
+    },
+    "68a9232d-2e22-470f-acea-765a37b2ff95": {
+        "id": "68a9232d-2e22-470f-acea-765a37b2ff95",
+        "name": "Ecosia Search",
+        "keyword": "e",
+        "cmd": "https://www.ecosia.org/search?q=%s",
+        "icon": "~/.config/ulauncher/assets/ecosia1600.png",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1627805047.8363233
+    }
+}
